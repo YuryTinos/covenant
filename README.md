@@ -2,6 +2,9 @@
 
 **Explicit Bias Governance for LLM Decisions**
 
+This document defines the non-negotiable principles of Covenant.  
+Any implementation that violates them is not Covenant.
+
 ---
 
 ## What is Covenant?
